@@ -1,0 +1,5 @@
+"Welcome to my file"
+
+Name: ${USER_NAME}
+Age: ${AGE}
+Address: ${ADDRESS}
